@@ -22,9 +22,10 @@ A simple and interactive web app built with **Streamlit** and **TensorFlow** to 
 
 ---
 
+
 ## 🚀 How to Run Locally
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/CatsVsDogsClassifier.git
+   git clone https://github.com/hadi-abdulla-01/CatsVsDogsClassifier.git
    cd CatsVsDogsClassifier
